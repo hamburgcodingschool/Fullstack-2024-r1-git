@@ -1,4 +1,4 @@
-### Reset
+## Reset
 
 To reset the last commit, do:
 ```

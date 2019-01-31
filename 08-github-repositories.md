@@ -1,4 +1,4 @@
-### GitHub
+## GitHub
 
 Git is a software.  
 GitHub is a platform to host git repositories.
@@ -8,7 +8,7 @@ You can make it private (visible only for you) or public (visible for anyone, us
 
 Git has a user interface that displays *diffs* and *commits* neatly.
 
-### Repositories
+## Repositories
 
 A git repository is a project, or the root folder of your project.
 

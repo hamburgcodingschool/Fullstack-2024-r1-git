@@ -1,4 +1,4 @@
-### Git Commands
+## Git Commands
 
 **Create a new git project / initialize git:**
 ```

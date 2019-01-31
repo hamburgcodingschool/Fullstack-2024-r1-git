@@ -1,4 +1,4 @@
-### Revert Commits
+## Revert Commits
 
 You want to remove the changes of a certain commit, follow these steps:
 ```

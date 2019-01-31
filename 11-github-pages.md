@@ -1,4 +1,4 @@
-### GitHub Pages
+## GitHub Pages
 
 You can use GitHub for publishing your website.
 

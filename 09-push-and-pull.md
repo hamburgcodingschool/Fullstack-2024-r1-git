@@ -1,4 +1,4 @@
-### Push and Pull
+## Push and Pull
 
 To push your local changes to your remote repository, use:
 ```

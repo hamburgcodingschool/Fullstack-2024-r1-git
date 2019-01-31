@@ -1,4 +1,4 @@
-### How to write good commit messages?
+## How to write good commit messages?
 
 For choosing a good commit message, you try to answer the following w questions:
 

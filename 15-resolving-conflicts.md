@@ -1,4 +1,4 @@
-### Solving conflicts
+## Solving conflicts
 
 If you rebase or merge, git might complain about conflicts.
 

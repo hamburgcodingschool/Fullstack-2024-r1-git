@@ -1,4 +1,4 @@
-### Git Config
+## Git Config
 
 If you use git, you need to set up a few things before you start.   
 https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup

@@ -1,4 +1,4 @@
-### Branching Strategies
+## Branching Strategies
 
 You can use git differently, depending on your team size.  
 There are different *branching strategies*.

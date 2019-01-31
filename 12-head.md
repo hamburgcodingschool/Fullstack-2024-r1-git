@@ -1,4 +1,4 @@
-### Head
+## Head
 
 If you do `git log` you see `HEAD` somewhere.  
 What is this `HEAD`?

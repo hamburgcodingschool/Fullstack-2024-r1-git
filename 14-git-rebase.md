@@ -1,4 +1,4 @@
-### Rebase
+## Rebase
 
 Sometimes you have the following situation:  
 Your branch has changes, but master also has changes.  

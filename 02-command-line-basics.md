@@ -1,4 +1,4 @@
-### Command line basics
+## Command line basics
 
 We will learn git on the command line.
 

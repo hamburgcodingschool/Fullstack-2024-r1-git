@@ -1,4 +1,4 @@
-### Pull Requests
+## Pull Requests
 
 GitHub has a feature called *Pull Requests**. A pull request is a request to merge a branch back to master.
 

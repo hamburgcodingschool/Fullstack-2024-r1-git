@@ -1,4 +1,4 @@
-### Cherry-Pick
+## Cherry-Pick
 
 If you have a very important change in a branch, but that branch is not merged yet, you can use `cherry picking`.
 

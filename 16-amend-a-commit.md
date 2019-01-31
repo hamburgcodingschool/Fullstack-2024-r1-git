@@ -1,4 +1,4 @@
-### Amend a commit
+## Amend a commit
 
 If you made a commit, but you want to change it afterwards, you can do that with 
 ```

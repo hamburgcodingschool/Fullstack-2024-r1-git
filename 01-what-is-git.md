@@ -1,4 +1,4 @@
-### What is Git?
+## What is Git?
 
 Git is a tool for version control.
 
