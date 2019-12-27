@@ -1,5 +1,7 @@
 ## Branches
 
+HaLlOoOoOoOoOoOoOoOoO
+
 If you want to collaborate on the same code base, you use branches, so everyone can commit changes independently.
 
 <img src="img/git-branches.jpg" alt="Git Branches" width="300"/>
