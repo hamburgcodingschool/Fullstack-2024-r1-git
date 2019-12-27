@@ -1,6 +1,6 @@
 ## What is Git?
 
-Git is a tool for version control.
+Git is a tool for version control. By the way the best one, not as lame cvs or svn.
 
 It is used for collaborative work on the same code base.
 
