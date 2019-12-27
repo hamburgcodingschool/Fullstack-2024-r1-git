@@ -1,6 +1,6 @@
 ## Branches
 
-HaLlOqwertzuijhb
+Hallihallooooo!
 
 If you want to collaborate on the same code base, you use branches, so everyone can commit changes independently.
 
