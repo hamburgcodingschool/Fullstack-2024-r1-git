@@ -1,0 +1,9 @@
+<body id="hello">
+
+
+    <script>
+
+        document.getElementById("Hello");
+    </script>
+</body>
+</html>
